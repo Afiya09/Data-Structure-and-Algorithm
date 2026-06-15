@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TopMarks",
+            "request": "launch",
+            "mainClass": "Conditions.TopMarks",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "Conditions.UpperCase",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Lowercase",
+            "request": "launch",
+            "mainClass": "Conditions.Lowercase",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Percentage",
+            "request": "launch",
+            "mainClass": "Conditions.Percentage",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Eligible",
+            "request": "launch",
+            "mainClass": "Conditions.Eligible",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Integers",
+            "request": "launch",
+            "mainClass": "Loops.Integers",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Loops.Sum",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Even",
+            "request": "launch",
+            "mainClass": "Loops.Even",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Loops.Prime",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Loops.Name",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "Loops.Multiple",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseCounting",
+            "request": "launch",
+            "mainClass": "Loops.ReverseCounting",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Counting",
+            "request": "launch",
+            "mainClass": "Loops.Counting",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Six",
+            "request": "launch",
+            "mainClass": "Six",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Five",
+            "request": "launch",
+            "mainClass": "Five",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Four",
+            "request": "launch",
+            "mainClass": "Four",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Three",
+            "request": "launch",
+            "mainClass": "Three",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Table_number",
+            "request": "launch",
+            "mainClass": "Table_number",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "RadiusArea",
+            "request": "launch",
+            "mainClass": "RadiusArea",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "printSum",
+            "request": "launch",
+            "mainClass": "printSum",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "PrintPattern",
+            "request": "launch",
+            "mainClass": "PrintPattern",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "LL_Delete",
+            "request": "launch",
+            "mainClass": "week3.LL_Delete",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "LL4$LinkedListSearch",
+            "request": "launch",
+            "mainClass": "week3.LL4$LinkedListSearch",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "LL2",
+            "request": "launch",
+            "mainClass": "week3.LL2",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "week3.Hello",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
