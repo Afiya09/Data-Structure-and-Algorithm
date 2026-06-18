@@ -39,3 +39,6 @@ This repository documents my daily progress in learning Data Structures and Algo
 
 ---
 
+## Day3:Pattern 
+Solved 20 pattern programming questions in Java to strengthen my understanding of nested loops, conditions, and problem-solving skills
+
