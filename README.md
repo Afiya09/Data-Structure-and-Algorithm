@@ -47,3 +47,7 @@ Solved 20 pattern programming questions in Java to strengthen my understanding o
 ## Day4: Recursion
 Solved 2 programming questions in java to strength my understanding of recursion.
 
+## Day5: Bitwise Operator
+Solved 5 programming questions in java to strength my understanding of Bitwise Operator.
+
+
