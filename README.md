@@ -47,7 +47,23 @@ Solved 20 pattern programming questions in Java to strengthen my understanding o
 ## Day4: Recursion
 Solved 2 programming questions in java to strength my understanding of recursion.
 
+---
+
 ## Day5: Bitwise Operator
 Solved 5 programming questions in java to strength my understanding of Bitwise Operator.
+
+---
+
+## Day6: Array Problem Part-1
+Solved 7 programming question
+1-Find the average of array elements
+2-Multiply each element of array by 10
+3-Search for an element in an array
+4-Find the maximim element in an array
+5-Return sum of positive and negative number
+6-Count the number of 0's and 1's
+7-Find the first unsorrted element in an array
+
+
 
 
