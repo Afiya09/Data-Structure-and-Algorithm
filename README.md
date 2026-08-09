@@ -64,6 +64,17 @@ Solved 7 programming question
 6-Count the number of 0's and 1's
 7-Find the first unsorrted element in an array
 
+---
+
+## Day7: Array Problem Part-2
+Solved 5 programming question
+1-Reverse an Array
+2-Shift Array Element By 1 position
+3-Print Extreme Elements in an alternate manner
+4-Find the mode of the array
+5-Identify elements with highest and lowest frequency
+
+
 
 
 
