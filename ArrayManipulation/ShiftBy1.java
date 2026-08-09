@@ -1,0 +1,22 @@
+//shift array elements by 1 position to the right
+package ArrayManipulation;
+
+public class ShiftBy1 {
+    public static void shiftBy1(int arr[]){
+        int n = arr.length;
+        int temp = arr[n-1];
+        for(int i=n-1; i>0; i--){
+            arr[i] = arr[i-1];
+        }
+        arr[0] = temp;
+
+        for(int k: arr){
+            System.out.print(k + " ");
+        }
+    }
+
+    public static void main(String[] args){
+        int arr[] = {1,2,3,4,5};
+        shiftBy1(arr);
+    }
+}
