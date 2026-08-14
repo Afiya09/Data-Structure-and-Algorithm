@@ -84,7 +84,12 @@ Solved 3 Programming question
 
 ---
 
-## Day9: 
+## Day9: Array Problem Part-4
+Solved 4 programming question
+1-Two Sum(leetcode problem 1)
+2-Remove Duplicates from Sorted Array(LeetCode Problem 26)
+3-Find First Repeating Element
+4-Find Pivot Index(Leetcode Problem 724)
 
 
 
