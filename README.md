@@ -74,6 +74,19 @@ Solved 5 programming question
 4-Find the mode of the array
 5-Identify elements with highest and lowest frequency
 
+---
+
+## Day8: Array Problem Part-3
+Solved 3 Programming question
+1- Sort an Array of 0's and 1's.
+2- Missing Number
+3- Find the unique element in an array.
+
+---
+
+## Day9: 
+
+
 
 
 
