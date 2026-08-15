@@ -99,6 +99,15 @@ Solved 1 programmimg question
 Rivised the basic and solved pattern problems
 Write the space and time complexity of each program
 
+--
+
+## Day11: Array Problem Part-5
+Solved 3 programming question 
+1-Reverse an Array
+2-Find the largest element in an array
+3-Count even or odd in an array
+Write the space and time complexity of each program.
+
 
 
 
