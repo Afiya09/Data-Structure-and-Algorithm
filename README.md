@@ -91,6 +91,15 @@ Solved 4 programming question
 3-Find First Repeating Element
 4-Find Pivot Index(Leetcode Problem 724)
 
+---
+
+## Day10: Array Problem Part -5
+Solved 1 programmimg question
+  - Missing elements from an array of Duplicates
+Rivised the basic and solved pattern problems
+Write the space and time complexity of each program
+
+
 
 
 
