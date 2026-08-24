@@ -135,6 +135,14 @@ key learnings
 .When to apply Binary Search
 solved Binary Search programming question.
 
+---
+
+## Day14: Kadanes Algorithm
+key learning
+.Kadanes Algorithm
+Solved Leetcode problem 53. Maximum SubArray.
+
+
 
 
 
