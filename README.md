@@ -108,6 +108,25 @@ Solved 3 programming question
 3-Count even or odd in an array
 Write the space and time complexity of each program.
 
+--
+
+## Day12: Method
+Solved 12 Programming questions
+1.Cretae a method add(int A, int B) that returns the sum.
+2.Print each Character of the String.
+3.Count length of the string without length().
+4.Count vowels in a String.
+5.Create a method isEven(int num) that returns true if num is even.
+6.Create a method getmaximum(intA, intB) that returns the larger number.
+7.Write a method updateValue(int x) and verify that original value in main() does not change.
+8.Create an overloaded method display() with one int parameter or two string parameter.
+9.Check String is palindrome or not.
+10.Create a method calculatepercentage(int Obtained, int Total).
+11.Create a method printwelcomemessage() that prints a greeting.
+12.Reverse a String.
+Write the space and time complexity of each program.
+
+
 
 
 
