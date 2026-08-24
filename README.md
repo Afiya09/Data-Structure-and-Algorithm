@@ -126,6 +126,14 @@ Solved 12 Programming questions
 12.Reverse a String.
 Write the space and time complexity of each program.
 
+---
+
+## Day13: BinarySearch
+key learnings
+. Iterative BinarySearch
+.Recursive Binary Search
+.When to apply Binary Search
+solved Binary Search programming question.
 
 
 
