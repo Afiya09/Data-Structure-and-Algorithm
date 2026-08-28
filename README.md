@@ -142,6 +142,14 @@ key learning
 .Kadanes Algorithm
 Solved Leetcode problem 53. Maximum SubArray.
 
+---
+## Day15: 2D Array
+1.Print the sum of each column in 2D Array
+2.Print the sum of each row in a 2D Array
+3.Wave print a Matrix
+4.Transpose of a Matrix
+
+
 
 
 
