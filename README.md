@@ -99,7 +99,7 @@ Solved 1 programmimg question
 Rivised the basic and solved pattern problems
 Write the space and time complexity of each program
 
---
+---
 
 ## Day11: Array Problem Part-5
 Solved 3 programming question 
@@ -108,7 +108,7 @@ Solved 3 programming question
 3-Count even or odd in an array
 Write the space and time complexity of each program.
 
---
+---
 
 ## Day12: Method
 Solved 12 Programming questions
@@ -148,6 +148,19 @@ Solved Leetcode problem 53. Maximum SubArray.
 2.Print the sum of each row in a 2D Array
 3.Wave print a Matrix
 4.Transpose of a Matrix
+
+---
+
+## Day 16: Sorting
+1. Bubble Sort
+2. selection Sort
+3. Insertion Sort
+
+---  
+
+## Day 17: Sorting
+1. Merge Sort
+2. Quick Sort
 
 
 
