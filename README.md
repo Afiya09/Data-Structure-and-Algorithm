@@ -161,6 +161,15 @@ Solved Leetcode problem 53. Maximum SubArray.
 ## Day 17: Sorting
 1. Merge Sort
 2. Quick Sort
+---
+
+## Day 18: Questions Based on Binary Search
+1. LowerBound
+2. UpperBound
+3. Total No. of Occurrence
+---
+
+
 
 
 
