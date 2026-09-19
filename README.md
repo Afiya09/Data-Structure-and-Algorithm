@@ -171,6 +171,24 @@ Solved Leetcode problem 53. Maximum SubArray.
 
 ## Day 19: Leetcode Problem 
 852. Peak index in a mountain array
+---
+
+## Day 20: SinglyLinkedList\
+1. Insert at head
+2. Insert at end
+3. Insert at position
+4. Traversal
+5. Utliity Function
+6. Is empty
+7. Get head
+8. Get tail
+9. clear linkedlist
+10. Search target
+11. Search position of the target
+12. Update using position
+13. Update first occurrence of value
+14. Delete at head
+
 
 
 
