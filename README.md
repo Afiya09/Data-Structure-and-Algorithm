@@ -193,6 +193,17 @@ Solved Leetcode problem 53. Maximum SubArray.
 17. Delete at first occurrence of value.
 ---
 
+## Day-22 : Doubly Linked List
+1. Insert at head
+2. Insert at tail
+3. Insert at position
+4. Traverse forward
+5. Traverse Backward
+6. Search target
+7. Update Linked List
+8. Delete at head
+9. Delete at tail
+10. Delete at position
 
 
 
