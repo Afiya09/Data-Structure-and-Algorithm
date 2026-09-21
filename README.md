@@ -56,40 +56,40 @@ Solved 5 programming questions in java to strength my understanding of Bitwise O
 
 ## Day6: Array Problem Part-1
 Solved 7 programming question
-1-Find the average of array elements
-2-Multiply each element of array by 10
-3-Search for an element in an array
-4-Find the maximim element in an array
-5-Return sum of positive and negative number
-6-Count the number of 0's and 1's
-7-Find the first unsorrted element in an array
+1. Find the average of array elements
+2. Multiply each element of array by 10
+3. Search for an element in an array
+4. Find the maximim element in an array
+5. Return sum of positive and negative number
+6. Count the number of 0's and 1's
+7. Find the first unsorrted element in an array
 
 ---
 
 ## Day7: Array Problem Part-2
 Solved 5 programming question
-1-Reverse an Array
-2-Shift Array Element By 1 position
-3-Print Extreme Elements in an alternate manner
-4-Find the mode of the array
-5-Identify elements with highest and lowest frequency
+1. Reverse an Array
+2. Shift Array Element By 1 position
+3. Print Extreme Elements in an alternate manner
+4. Find the mode of the array
+5. Identify elements with highest and lowest frequency
 
 ---
 
 ## Day8: Array Problem Part-3
 Solved 3 Programming question
-1- Sort an Array of 0's and 1's.
-2- Missing Number
-3- Find the unique element in an array.
+1. Sort an Array of 0's and 1's.
+2. Missing Number
+3. Find the unique element in an array.
 
 ---
 
 ## Day9: Array Problem Part-4
 Solved 4 programming question
-1-Two Sum(leetcode problem 1)
-2-Remove Duplicates from Sorted Array(LeetCode Problem 26)
-3-Find First Repeating Element
-4-Find Pivot Index(Leetcode Problem 724)
+1. Two Sum(leetcode problem 1)
+2. Remove Duplicates from Sorted Array(LeetCode Problem 26)
+3. Find First Repeating Element
+4. Find Pivot Index(Leetcode Problem 724)
 
 ---
 
@@ -103,9 +103,9 @@ Write the space and time complexity of each program
 
 ## Day11: Array Problem Part-5
 Solved 3 programming question 
-1-Reverse an Array
-2-Find the largest element in an array
-3-Count even or odd in an array
+1. Reverse an Array
+2. Find the largest element in an array
+3. Count even or odd in an array
 Write the space and time complexity of each program.
 
 ---
