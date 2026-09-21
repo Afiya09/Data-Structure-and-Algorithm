@@ -112,18 +112,18 @@ Write the space and time complexity of each program.
 
 ## Day12: Method
 Solved 12 Programming questions
-1.Cretae a method add(int A, int B) that returns the sum.
-2.Print each Character of the String.
-3.Count length of the string without length().
-4.Count vowels in a String.
-5.Create a method isEven(int num) that returns true if num is even.
-6.Create a method getmaximum(intA, intB) that returns the larger number.
-7.Write a method updateValue(int x) and verify that original value in main() does not change.
-8.Create an overloaded method display() with one int parameter or two string parameter.
-9.Check String is palindrome or not.
-10.Create a method calculatepercentage(int Obtained, int Total).
-11.Create a method printwelcomemessage() that prints a greeting.
-12.Reverse a String.
+1. Cretae a method add(int A, int B) that returns the sum.
+2. Print each Character of the String.
+3. Count length of the string without length().
+4. Count vowels in a String.
+5. Create a method isEven(int num) that returns true if num is even.
+6. Create a method getmaximum(intA, intB) that returns the larger number.
+7. Write a method updateValue(int x) and verify that original value in main() does not change.
+8. Create an overloaded method display() with one int parameter or two string parameter.
+9. Check String is palindrome or not.
+10. Create a method calculatepercentage(int Obtained, int Total).
+11. Create a method printwelcomemessage() that prints a greeting.
+12. Reverse a String.
 Write the space and time complexity of each program.
 
 ---
@@ -144,10 +144,10 @@ Solved Leetcode problem 53. Maximum SubArray.
 
 ---
 ## Day15: 2D Array
-1.Print the sum of each column in 2D Array
-2.Print the sum of each row in a 2D Array
-3.Wave print a Matrix
-4.Transpose of a Matrix
+1. Print the sum of each column in 2D Array
+2. Print the sum of each row in a 2D Array
+3. Wave print a Matrix
+4. Transpose of a Matrix
 
 ---
 
@@ -207,6 +207,17 @@ Solved Leetcode problem 53. Maximum SubArray.
 ---
 
 ## Day-23: CircularSinglyLinkedList
+1. Insert at head
+2. Insert at tail
+3. Insert at position
+4. Traverse
+5. Search target
+6. Delete at head
+7. Delete at tail
+8. Delete at position
+---
+
+## Day-24: CirCularDoublyLinkedList
 1. Insert at head
 2. Insert at tail
 3. Insert at position
