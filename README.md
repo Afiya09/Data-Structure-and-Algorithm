@@ -226,7 +226,17 @@ Solved Leetcode problem 53. Maximum SubArray.
 6. Delete at head
 7. Delete at tail
 8. Delete at position
+---
 
+## Day-25: OOPs
+Object Oriented Programming.
+How to create an object in java.
+Encapsulation in java.
+Inheritance in java.
+Abstraction in java.
+Polymorphism in java.
+
+---
 
 
 
