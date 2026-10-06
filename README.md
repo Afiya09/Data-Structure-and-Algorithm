@@ -257,6 +257,7 @@ Big O notation.
 ## Day-28: Leetcode
 41. FizzBuzz
 268.Missing Number.
+1. Two Sum
 
 
 
