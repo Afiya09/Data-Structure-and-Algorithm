@@ -247,6 +247,7 @@ Java Vector.
 Java Queue Interface.
 Java Set Interface.
 
+---
 
 ## Day-27: Time and Space Complexity
 Unit to represent complexity.
@@ -263,7 +264,8 @@ Big O notation.
 ## Day-29: Leetcode
 26. Remove Duplicates from sorted Array.
 724. Find pivot index.
-
+53. Maximun Subarray
+121. Best time to buy and sell stock
 
 
 
