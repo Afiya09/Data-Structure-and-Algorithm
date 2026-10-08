@@ -262,6 +262,7 @@ Big O notation.
 
 ## Day-29: Leetcode
 26. Remove Duplicates from sorted Array.
+724. Find pivot index.
 
 
 
