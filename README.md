@@ -258,6 +258,10 @@ Big O notation.
 41. FizzBuzz
 268.Missing Number.
 1. Two Sum
+--- 
+
+## Day-29: Leetcode
+26. Remove Duplicates from sorted Array.
 
 
 
