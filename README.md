@@ -266,7 +266,13 @@ Big O notation.
 724. Find pivot index.
 53. Maximun Subarray
 121. Best time to buy and sell stock
+---
 
+## Day-30: Leetcode
+867. Transpose Matrix
+48. Rotate Image
+57. Spiral Print Matrix
+    
 
 
 
