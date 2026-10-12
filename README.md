@@ -272,7 +272,12 @@ Big O notation.
 867. Transpose Matrix
 48. Rotate Image
 57. Spiral Print Matrix
-    
+---
+
+## Day-31: Leetcode
+704. Binary Search
+---
+
 
 
 
